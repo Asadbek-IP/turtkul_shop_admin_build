@@ -3,13 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "ee74f545c1bd6f8613125171fa18dc98",
+const RESOURCES = {"flutter_bootstrap.js": "431402df1d22334bae38d4fbcd91b9b6",
 "version.json": "be52a11b61fa4d974eafbd493ab7fb5f",
-"index.html": "367aaf2f38f347786da07bc7834b56e4",
-"/": "367aaf2f38f347786da07bc7834b56e4",
-"main.dart.js": "a227f2a2dab1eccf79c3a440b5517783",
+"index.html": "ff08cd8c402483b7b995a7debf03bc43",
+"/": "ff08cd8c402483b7b995a7debf03bc43",
+"main.dart.js": "f878250c98f5af67ed59bc3e12bb4f87",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"icons/splashTaxi.png": "3329891997446ecef81f90485d0f4a57",
+"icons/splashTaxi.png": "70c02d17ea9e21f3639819c9c7bcd5a4",
 "manifest.json": "df52e8dd6b9c2958aceab55a952f4f38",
 "assets/AssetManifest.json": "351f1989ecea45e5a441e7bf0a8fccf3",
 "assets/NOTICES": "89ccce46c03d8de73235ad502018c4f3",
